@@ -14,7 +14,7 @@ require (
 	github.com/cloudflare/circl v1.6.4
 	github.com/dunglas/go-urlpattern v1.0.0
 	github.com/dustin/go-humanize v1.0.1
-	github.com/go-chi/chi/v5 v5.3.1
+	github.com/go-chi/chi/v5 v5.4.0
 	github.com/google/cel-go v0.29.2
 	github.com/google/uuid v1.6.0
 	github.com/klauspost/compress v1.19.0
